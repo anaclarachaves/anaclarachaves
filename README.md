@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclarachaves&count_private=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarachaves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarachaves&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 - Obrigada pela visita. 
 
