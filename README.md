@@ -1,9 +1,10 @@
 
-# Olá!
+# About me
  
-## Meu nome é Ana Clara.
- 
-… Sou cientista de dados.
+Data Scientist.<br>
+MSc Student at UFPB (Informatics - Deep Learning).<br>
+Director at TAIL.<br>
+Researcher at ARIA.
  
  
 ## Links
@@ -16,5 +17,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarachaves&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-- Obrigada pela visita. 
+- Thanks for visiting!
 
