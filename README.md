@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**anaclarachaves/anaclarachaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anaclarachaves/anaclarachaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
