@@ -11,5 +11,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclarachaves/)](https://www.linkedin.com/in/anaclarachaves/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aclarachavess@gmail.com)](mailto:aclarachavess@gmail.com)
  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclarachaves&count_private=true)
+
+
 - Obrigada pela visita. 
 
