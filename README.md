@@ -12,8 +12,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aclarachavess@gmail.com)](mailto:aclarachavess@gmail.com)
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclarachaves&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclarachaves&count_private=true&theme=material-palenight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarachaves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Obrigada pela visita. 
 
