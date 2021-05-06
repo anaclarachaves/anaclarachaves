@@ -2,7 +2,7 @@
 # About me
  
 Data Scientist.<br>
-MSc Student at UFPB (Informatics - Deep Learning).<br>
+MSc Student at UFPB (Deep Learning).<br>
 Director at TAIL.<br>
 Researcher at ARIA.
  
