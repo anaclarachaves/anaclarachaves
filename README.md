@@ -3,7 +3,7 @@
  
 Data Scientist.<br>
 MSc Student at UFPB (Deep Learning).<br>
-Director at TAIL.<br>
+Advisor at TAIL.<br>
 Researcher at ARIA.
  
  
